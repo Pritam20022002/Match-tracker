@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Cricket updates",
+  "version": "2.0",
+  "description": "View live, past, and upcoming cricket matches directly in your browser.",
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon48.png"
+  },
+  "permissions": ["activeTab", "storage"]
+}
