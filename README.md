@@ -1,3 +1,1 @@
-Shows results of past cricket matches
-Shows live score
-Shows upcoming mathces
+Shows live scores along with past results and upcoming matches
