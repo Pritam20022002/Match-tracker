@@ -1,4 +1,4 @@
-const API_URL = 'https://api.cricapi.com/v1/cricScore?apikey=e3d51fb5-61bb-4c82-b9b3-51a512426b48';
+const API_URL = 'https://api.cricapi.com/v1/cricScore?apikey=PASTEanAPIkeyFROMcricapi';
 const matchesContainer = document.getElementById('matches-container');
 const buttons = document.querySelectorAll('nav button');
 
